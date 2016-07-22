@@ -1,0 +1,7 @@
+main.o: controller.c 2.c
+	gcc  controller.c 2.c -o main
+
+
+
+clean:
+	rm *o main
