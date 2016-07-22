@@ -1,1 +1,1 @@
-# Readme for paper
+# Readme
