@@ -74,7 +74,7 @@ asmlinkage long new_sys_read(unsigned int fd, char __user *buf, size_t count)
         if (strcmp(current->comm, "cc1") == 0 ||
             strcmp(current->comm, "python") == 0) {
 
-            long i;
+            //long i;
 
             /* It's not good to deal directly with userspace memory; we should
              * copy the buffer to kernel memory, write to it, then copy it
