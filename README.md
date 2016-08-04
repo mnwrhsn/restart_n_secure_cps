@@ -5,11 +5,11 @@ ReSecure: Restart-Based Security Protocol for Constantly Actuated Real-Time Cybe
 
 
 
-The server (Simple Controller) is a multithreaded program running the safety controller, the decision module and the client (Complex Controller) as asynchronous events.
+The **_Server_** is a multithreaded program running the *Safety Controller* and the *Decision Module*. The **_Client_** acts as the *Complex Controller*.
 
 **_The applications are prototyped and checked for the Linux kernel versions specified below. Although this instructions should work with other Linux kernel versions and real-time patches as well, we did not verify this._**
 
-The server is a multithreaded program running the safety controller, the decision module and the complex controller as asynchronous events.
+[//]: # (The server is a multithreaded program running the safety controller, the decision module and the complex controller as asynchronous events.)
 
 Instructions
 ----
