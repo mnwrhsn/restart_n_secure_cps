@@ -11,7 +11,8 @@ The server (Simple Controller) is a multithreaded program running the safety con
 
 The server is a multithreaded program running the safety controller, the decision module and the complex controller as asynchronous events.
 
-###Instructions
+##Instructions
+-----
 
 ###Flashing the Beagle Bone Black###
 
@@ -34,7 +35,7 @@ __4.__ Insert the SD card in the Board.
 __5.__ Push S2 switch while connecting to a power source.
 
 
-__6.__ When all four lights lit up together the Board is flashed with the new Image.
+__6.__ When all four lights lit up together the Board is flashed with the new image.
 
 ###Applying Real-Time patch
 
