@@ -19,7 +19,7 @@ The server is a multithreaded program running the safety controller, the decisio
 
 __1.__ Download the image:
 
-	[https://rcn-ee.com/rootfs/2016-06-09/flasher/BBB-eMMC-flasher-debian-8.5-console-armhf-2016-06-09-2gb.img.xz](https://rcn-ee.com/rootfs/2016-06-09/flasher/BBB-eMMC-flasher-debian-8.5-console-armhf-2016-06-09-2gb.img.xz)
+	https://rcn-ee.com/rootfs/2016-06-09/flasher/BBB-eMMC-flasher-debian-8.5-console-armhf-2016-06-09-2gb.img.xz
 
 __2.__ Extract the file
 
