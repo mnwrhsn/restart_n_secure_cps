@@ -11,7 +11,7 @@ The server (Simple Controller) is a multithreaded program running the safety con
 
 The server is a multithreaded program running the safety controller, the decision module and the complex controller as asynchronous events.
 
-##Instructions
+Instructions
 ----
 
 ###Flashing the Beagle Bone Black###
