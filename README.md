@@ -1,7 +1,7 @@
 ReSecure: Restart-Based Security Protocol for Constantly Actuated Real-Time Cyber-Physical Systems
 =====================
 
-######*This work has been submitted to [2nd ACM Workshop on Cyber-Physical Systems Security & Privacy (CPS-SPC)](http://eecs.oregonstate.edu/cps-spc/).*
+######*This work has been submitted to the [1st Workshop on Security and Dependability of Critical Embedded Real-Time Systems](https://certs2016.uni.lu/).*
 
 
 
