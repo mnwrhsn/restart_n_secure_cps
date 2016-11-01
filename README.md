@@ -1,7 +1,7 @@
 ReSecure: A Restart-Based Security Protocol for Tightly Actuated Real-Time Systems
 =====================
 
-######*This work has been submitted to the [1st Workshop on Security and Dependability of Critical Embedded Real-Time Systems](https://certs2016.uni.lu/).*
+######*This work has been ~~submitted~~ accepted to the [1st Workshop on Security and Dependability of Critical Embedded Real-Time Systems](https://certs2016.uni.lu/).*
 
 
 
